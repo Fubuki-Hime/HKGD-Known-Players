@@ -31,18 +31,17 @@
     },
     {
       "name": "Hinze",
-      "iconID": 1,
-      "shipID": 1,
-      "ballID": 10,
-      "ufoID": 5,
+      "iconID": 4,
+      "shipID": 3,
+      "ballID": 1,
+      "ufoID": 1,
       "waveID": 1,
-      "robotID": 3,
-      "spiderID": 3,
+      "robotID": 1,
+      "spiderID": 1,
       "swingID": 1,
-      "color1": 1,
-      "color2": 3,
-      "glowID": 3,
-      "glow": true
+      "color1": 10,
+      "color2": 11,
+      "glow": false
     },
     {
       "name": "3pow3",
@@ -385,7 +384,7 @@
       "waveID": 17,
       "robotID": 24,
       "spiderID": 14,
-      "swingID": 26,
+      "swingID": 30,
       "color1": 12,
       "color2": 11,
       "glow": false
