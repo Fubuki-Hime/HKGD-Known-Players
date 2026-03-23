@@ -3,7 +3,6 @@
     {
       "name": "WhiteEmerald",
       "iconID": 107,
-      "glowID": 12,
       "shipID": 7,
       "ballID": 66,
       "ufoID": 5,
@@ -309,16 +308,17 @@
     {
       "name": "JucaRat",
       "iconID": 47,
-      "shipID": 163,
+      "shipID": 1,
       "ballID": 107,
       "ufoID": 74,
-      "waveID": 93,
+      "waveID": 17,
       "robotID": 68,
       "spiderID": 66,
-      "swingID": 1,
-      "color1": 98,
-      "color2": 12,
-      "glow": false
+      "swingID": 15,
+      "color1": 11,
+      "color2": 43,
+      "glowID": 12,
+      "glow": true
     },
    {
       "name": "Karsonic",
@@ -463,6 +463,21 @@
       "color2": 6,
       "glowID": 12,
       "glow": true
-    }
+    },
+    {
+      "name": "ItzWeegee",
+      "iconID": 107,
+      "shipID": 164,
+      "ballID": 71,
+      "ufoID": 28,
+      "waveID": 92,
+      "robotID": 68,
+      "spiderID": 9,
+      "swingID": 21,
+      "color1": 44,
+      "color2": 12,
+      "glowID": 40,
+      "glow": true
+    },
   ]
 }
