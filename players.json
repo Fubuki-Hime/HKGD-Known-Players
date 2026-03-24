@@ -492,6 +492,21 @@
       "color2": 3,
       "glowID": 1,
       "glow": true
+    },
+    {
+      "name": "Killukat",
+      "iconID": 223,
+      "shipID": 88,
+      "ballID": 117,
+      "ufoID": 45,
+      "waveID": 17,
+      "robotID": 14,
+      "spiderID": 14,
+      "swingID": 3,
+      "color1": 41,
+      "color2": 52,
+      "glowID": 12,
+      "glow": true
     }
   ]
 }
