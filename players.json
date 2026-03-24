@@ -145,7 +145,7 @@
       "glow": true
     },
     {
-      "name": "Fubuki-Hime",
+      "name": "*Fubuki-Hime*",
       "iconID": 16,
       "shipID": 130,
       "ballID": 76,
@@ -478,5 +478,20 @@
       "glowID": 40,
       "glow": true
     },
+    {
+      "name": "HaydenLeung",
+      "iconID": 79,
+      "shipID": 10,
+      "ballID": 67,
+      "ufoID": 149,
+      "waveID": 17,
+      "robotID": 68,
+      "spiderID": 2,
+      "swingID": 22,
+      "color1": 5,
+      "color2": 3,
+      "glowID": 1,
+      "glow": true
+    }
   ]
 }
