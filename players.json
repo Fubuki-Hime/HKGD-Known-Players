@@ -507,6 +507,34 @@
       "color2": 52,
       "glowID": 12,
       "glow": true
+    },
+    {
+      "name": "Nafey",
+      "iconID": 0,
+      "shipID": 17,
+      "ballID": 0,
+      "ufoID": 18,
+      "waveID": 2,
+      "robotID": 10,
+      "spiderID": 2,
+      "swingID": 1,
+      "color1": 12,
+      "color2": 15,
+      "glow": false
+    },
+    {
+      "name": "Nafey",
+      "iconID": 0,
+      "shipID": 17,
+      "ballID": 0,
+      "ufoID": 18,
+      "waveID": 2,
+      "robotID": 10,
+      "spiderID": 2,
+      "swingID": 1,
+      "color1": 12,
+      "color2": 15,
+      "glow": false
     }
   ]
 }
